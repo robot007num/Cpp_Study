@@ -1,0 +1,8 @@
+ Obj::Obj() fora
+ inside main()
+ Obj::Obj() forc
+ Obj::Obj() forb
+ leaving main()
+ Obj::~Obj() forb
+ Obj::~Obj() forc
+ Obj::~Obj() fora
